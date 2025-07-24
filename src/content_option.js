@@ -1,7 +1,7 @@
 const logotext = "devanujrijal";
 const meta = {
     title: "Devanuj Rijal",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Devanuj Rijal ui/ux developer_ Full stack devloper,currently studying at NIT Silchar.",
 };
 
 const introdata = {
@@ -9,20 +9,20 @@ const introdata = {
     animated: {
         first: "I am a UI/UX Designer",
         second:"I am a Full Stack Developer",
-        third: "I design & develop beautiful websites",
+        third: "I design & develop beautiful websites & apps",
     },
     description: "I help businesses and entrepreneurs stand out online with custom websites and digital strategies tailored to your goals.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Little bit about my self",
+    aboutme: "Driven by curiosity and a passion for technology, I am a full stack developer with a strong interest in data analysis and UI/UX design. My journey blends robust software engineering with a keen eye for crafting intuitive and engaging digital experiences. I thrive on building web applications that not only function flawlessly but also deliver exceptional user experiences.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "SUMMER INTERNSHIP",
+        where: "Caliche Group Pvt. Ltd.  Noida, Delhi NCR",
+        date: "May-July 2025",
     },
     {
         jobtitle: "Designer of week",
@@ -38,23 +38,31 @@ const worktimeline = [{
 
 const skills = [{
         name: "Python",
-        value: 90,
-    },
-    {
-        name: "MongoDB",
-        value: 85,
-    },
-    {
-        name: "Javascript",
         value: 80,
     },
     {
-        name: "React",
+        name: "MongoDB",
+        value: 75,
+    },
+    {
+        name: "Javascript",
+        value: 70,
+    },
+    {
+        name: "ReactJS",
+        value: 70,
+    },
+     {
+        name: "NodeJS",
         value: 60,
     },
     {
         name: "C++",
         value: 60,
+    },
+     {
+        name: "Figma",
+        value: 80,
     },
 ];
 
@@ -67,7 +75,19 @@ const services = [{
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Wordpress Design",
+        title: "Web Development",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+      {
+        title: "Digital Marketing",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+      {
+        title: "Search Engine Optimization",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+      {
+        title: "Generative Engine Optimization",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -136,8 +156,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "rijaldevanuj@gmail.com",
+    YOUR_FONE: "+91 9394521290",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,10 +167,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/rijaldevanuj",
+    facebook: "https://www.facebook.com/profile.php?id=100093119062473",
+    linkedin: "https://www.linkedin.com/in/devanuj-rijal-38711128a/",
+    twitter: "https://x.com/devanujrijal ",
 };
 export {
     meta,
@@ -164,3 +184,7 @@ export {
     socialprofils,
     logotext,
 };
+
+
+
+
