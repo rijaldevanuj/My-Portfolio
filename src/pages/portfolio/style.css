@@ -13,9 +13,9 @@
     text-align: center;
     margin: 0.5rem auto;
     position: relative;
-    background: var(--secondary-color);
+    background: rgb(32, 32, 32);
     padding: 6px;
-    border: 1px solid var(--secondary-color);
+    border: 1px gray;
     transition: 0.3s ease;
     font-size: 0;
     min-height: 300px;
@@ -23,6 +23,7 @@
 
 .po_item img {
     max-width: 100%;
+    min-height: 250px;
 }
 
 .po_item .content {
