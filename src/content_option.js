@@ -61,31 +61,33 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Web Development",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-      {
-        title: "Digital Marketing",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-      {
-        title: "Search Engine Optimization",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-      {
-        title: "Generative Engine Optimization",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const services = [
+  {
+    title: "UI & UX Design",
+    description: "Crafting visually stunning and intuitive interfaces to deliver seamless user experiences across all platforms.",
+  },
+  {
+    title: "Mobile Apps",
+    description: "Developing high-performance native and cross-platform mobile applications tailored to your business needs.",
+  },
+  {
+    title: "Web Development",
+    description: "Building fast, secure, and responsive websites that engage users and drive results for your business.",
+  },
+  {
+    title: "Digital Marketing",
+    description: "Promoting your brand online using data-driven digital marketing strategies that boost visibility and growth.",
+  },
+  {
+    title: "Search Engine Optimization",
+    description: "Optimizing your website to achieve higher rankings in search engine results and increase organic traffic.",
+  },
+  {
+    title: "Generative Engine Optimization",
+    description: "Enhancing your web presence to perform optimally in AI-driven and generative search environments.",
+  },
 ];
+
 
 const dataportfolio = [{
         img: "assets/images/WhatsApp Image 2025-06-12 at 11.01.57_0ede3a18.jpg",
